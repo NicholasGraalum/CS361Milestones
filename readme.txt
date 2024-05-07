@@ -1,4 +1,4 @@
-default_character = Character(name='default', background='default_bg')
+default_character = Character(name='default', background='default_bg', race='human)
 db.session.add(default_character)
 db.session.commit()
 item1 = Items(name='Sword', description='Its a sword', affect=None, character=default_character)
