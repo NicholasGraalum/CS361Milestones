@@ -1,0 +1,8 @@
+Choose your stats: 
+melee: 1
+sneak: 1
+ranged: 1
+speech: 1
+toughness: 1
+stamina: 1
+magic: 1
